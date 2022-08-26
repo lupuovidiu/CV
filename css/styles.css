@@ -20,6 +20,10 @@ footer{
 	padding-bottom: 1px;
 }
 
+.fa-solid{
+	color:#007bff
+}
+
 .home-photo {
 display:block;
 position:relative;
@@ -40,18 +44,18 @@ box-shadow:0 0 25px 0 rgba(0,0,0,.1)
   z-index: 99;
   border: none;
   outline: none;
-  background-color: gray;
+  background-color: GhostWhite;
   color: white;
   cursor: pointer;
   padding: 2px;
   border-radius: 10px;
   font-size: 16px;
   border-style: solid;
-  border-color: white;
+  border-color: #007bff;
 }
 
 #myBtn:hover {
-  background-color: #555;
+  background-color: LightSteelBlue;
 }
 @media (max-width:992px){
   h1.special {
@@ -61,4 +65,10 @@ box-shadow:0 0 25px 0 rgba(0,0,0,.1)
       text-align:center;
       padding-top: 20px;
   }
+}
+
+h1,h5,h6 {
+  background: -webkit-linear-gradient(GhostWhite,black);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
