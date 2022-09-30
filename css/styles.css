@@ -15,7 +15,7 @@ body{
     box-shadow: 1px 3px 5px #888888;
 	padding-top: 15px;	
 	
-    background: linear-gradient(0deg , #FDE2B9 0%, #F7E4BB 20%, #E6E9C2 48%, #CAF0CE 82.81%, #B3F7D7 100%);
+    background: linear-gradient(0deg , #E6E9C2 33%, #CAF0CE 66%, #B3F7D7 100%);
 	text-shadow: 0px 1px #fff;
 	}
 
