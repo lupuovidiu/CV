@@ -1,5 +1,6 @@
 *{
 	font-family: 'Jura', sans-serif;
+	
 }
 
 html { 
@@ -12,13 +13,15 @@ body{
     margin:5px auto;
 	border-radius: 3px;
     box-shadow: 1px 3px 5px #888888;
-	padding-top: 15px;
+	padding-top: 15px;	
+	
+    background: linear-gradient(0deg , #FDE2B9 0%, #F7E4BB 20%, #E6E9C2 48%, #CAF0CE 82.81%, #B3F7D7 100%);
 	}
 
 h1,h5,h6 {
-  background: -webkit-linear-gradient(Royalblue,black);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(Royalblue,black) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
 }
 
 footer{
@@ -37,7 +40,7 @@ background-color:#fff;
 border-radius:1000px;
 border:10px solid #fff;
 overflow:hidden;
-box-shadow:0 0 25px 0 rgba(0,0,0,.1)
+box-shadow:0 0 30px 0 rgba(0,0,0,.5)
 }
 
 .btn-outline-primary {
@@ -65,7 +68,7 @@ box-shadow:0 0 25px 0 rgba(0,0,0,.1)
   color: white;
   cursor: pointer;
   padding: 2px;
-  border-radius: 10px;
+  border-radius: 100px;
   font-size: 16px;
   border-style: solid;
   border-color: Royalblue;
