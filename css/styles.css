@@ -15,12 +15,13 @@ body{
     box-shadow: 1px 3px 5px #888888;
 	padding-top: 15px;	
 	
-    background: linear-gradient(0deg, #e3efe8 0%, #e7eff9 75%);
+    background: linear-gradient(0deg,#FAE4D5 10%, #FCF5EF 50%, #C8F4F6 90%);
+	
 	text-shadow: 0px 1px #fff;
 	}
 
 /*h1,h5,h6 {
-  background: -webkit-linear-gradient(Royalblue,black);
+  background: -webkit-linear-gradient(#141e8c,black);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }*/
@@ -31,7 +32,7 @@ footer{
 }
 
 .fa-solid{
-	color: Royalblue;
+	color: #141e8c;
 }
 
 .home-photo {
@@ -45,14 +46,14 @@ box-shadow:0 0 30px 0 rgba(0,0,0,.5)
 }
 
 .btn-outline-primary {
-    color: Royalblue;
-    border-color: Royalblue;
+    color: #141e8c;
+    border-color: #141e8c;
 }
 
 .btn-outline-primary:hover {
     color: #fff;
-    background-color: Royalblue;
-    border-color: Royalblue;
+    background-color: #141e8c;
+    border-color: #141e8c;
 }
 
 #myBtn {
@@ -72,7 +73,7 @@ box-shadow:0 0 30px 0 rgba(0,0,0,.5)
   border-radius: 100px;
   font-size: 16px;
   border-style: solid;
-  border-color: Royalblue;
+  border-color: #141e8c;
 }
 
 #myBtn:hover {
