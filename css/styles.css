@@ -1,5 +1,5 @@
 *{
-	font-family: 'Jura', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	
 }
 
@@ -17,7 +17,8 @@ body{
 	
     background: linear-gradient(0deg, #FEFEFF 10%,  #F7F9FB 50%, #F0F4F7 90%);
 	
-	text-shadow: 0px 1px #fff;
+	text-shadow: 0px 1px white;
+	
 	}
 
 /*h1,h5,h6 {
